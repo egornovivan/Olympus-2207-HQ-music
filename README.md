@@ -9,6 +9,12 @@ High quality music for Olympus 2207.
 1. Extract into `data\sound\music`.
 1. In `fallout2.cfg` find `[sound]` section and set `music_path1=data\sound\music\`.
 
+### High quality
+1. Make sure you have [sfall](https://github.com/phobos2077/sfall/) (`ddraw.dll`) version no less than 4.2.9.
+1. Download HQ version from the [latest release page](https://github.com/egornovivan/Olympus-2207-HQ-music/releases/latest).
+1. Extract into `data\sound\music`.
+1. In `fallout2.cfg` find `[sound]` section and set `music_path1=data\sound\music\`.
+
 ### Ultra high quality
 1. Make sure you have [sfall](https://github.com/phobos2077/sfall/) (`ddraw.dll`) version no less than 4.1.1.
 1. Download UHQ version from the [latest release page](https://github.com/egornovivan/Olympus-2207-HQ-music/releases/latest).
